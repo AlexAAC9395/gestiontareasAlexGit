@@ -1,8 +1,8 @@
-# Gestión de Tareas
+# Gestión de Tareas Alejandro Arroyo Cabrera
 
 ## Descripción
 
-Aplicación Java Web, realizada por Alejandro Arroyo Cabrera
+Aplicación Java Web, realizada por Alejandro Arroyo Cabrera para proyecto final del Booster Metaphorce
 
 Esta aplicación permite gestionar un listado de tareas (aplicación TO-DO list), con las opciones básicas (visualización, creación, modificación y eliminación).
 
